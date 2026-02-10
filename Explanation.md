@@ -4,6 +4,9 @@
 - I decided to make the repo public since it seemed like the best option so everyone in class could see and reference it if needed.
 - I kept a Read.Me file because it seemed like the most common and helpful thing to do!
 ## Here is an emoji
-🐈
+>🐈
 ## Hello Professory Guyer!
-@guyer I'm excited for this semester!
+*@guyer* I'm **very** excited for this semester!
+
+>[!WARNING]
+>I would like to go to bed
